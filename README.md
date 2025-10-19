@@ -59,9 +59,10 @@ The **Supplier Quality &amp; Performance Dashboard Analysis** delivers real-time
 
 
 🧰 Tools & Technologies
-Power BI / Python (Matplotlib, Seaborn, Plotly) for visualization
 
-SQL / Pandas for data aggregation and transformation
+*Power BI / Python (Matplotlib, Seaborn, Plotly) for visualization
 
-GitHub for version control and portfolio display
+*SQL / Pandas for data aggregation and transformation
+
+*GitHub for version control and portfolio display
 
